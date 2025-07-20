@@ -1,0 +1,8 @@
+site_name: "☁️空屿"
+theme:
+  name: material
+  palette:
+     scheme: slate 
+  features:
+    - navigation.sections
+    - toc.integrate  # 自动生成目录
