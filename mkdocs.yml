@@ -1,6 +1,6 @@
 site_name: "☁️空屿"
 theme:
-  name: material
+  name: simple-blog
   palette:
      scheme: slate 
   features:
