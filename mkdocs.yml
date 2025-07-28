@@ -1,6 +1,6 @@
 site_name: "☁️空屿"
 theme:
-  name: windmill-dark
+  name: windmill
   palette:
      scheme: slate 
   features:
